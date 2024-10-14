@@ -1,4 +1,4 @@
-def add_everything_up(a: (int, float), b: str):
+def add_everything_up(a, b):
     a = a
     b = b
     try:
